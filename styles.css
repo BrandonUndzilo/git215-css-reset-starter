@@ -129,6 +129,7 @@ header img{
     filter: grayscale(30%);
 }
 
+
 /* ----- HEADING STYLES ----- */
 h1, h2, h3{
     font-family: var(--heading-fonts);
